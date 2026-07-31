@@ -34,7 +34,7 @@ Users should be able to:
 
 ### Links
 
-- **Solution URL:**https://github.com/yoz0816/clipboard-landing-page
+- **Solution URL:** https://github.com/yoz0816/clipboard-landing-page
 - **Live Site URL:** https://yoz0816.github.io/clipboard-landing-page/
 
 ---
