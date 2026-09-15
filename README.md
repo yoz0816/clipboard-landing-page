@@ -57,11 +57,7 @@ Users should be able to:
 
 This project gave me more practice building responsive landing pages from a design file. I improved my understanding of Flexbox and CSS Grid by using them together to create layouts that adapt to different screen sizes.
 
-I also became more comfortable using CSS custom properties to keep colors and spacing consistent throughout the project. Another valuable lesson was organizing HTML into meaningful semantic sections, making the code easier to read and maintain.
-
-
-
-
+I also became more comfortable using CSS custom properties to keep colors and spacing consistent throughout the project.
 ---
 
 ### Continued Development
